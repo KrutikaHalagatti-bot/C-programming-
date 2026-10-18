@@ -32,3 +32,9 @@ This project helped me practise organizing data using structures, working with a
 ## Author
 
 Krutika Halagatti
+## Sample output
+
+!College Event Registration System Output
+<img width="239" height="444" alt="image" src="https://github.com/user-attachments/assets/e409d69f-281b-4781-b8b1-381dbd5cbe47" />
+
+
